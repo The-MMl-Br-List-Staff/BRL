@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <p>{{ level.password || 'NAO OBRIGATORIO' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        COMPLETE  O MAX MODE SEM USAR CHEATS OU HACKS
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        O CURSOR TEM QUE ESTAR APARECENDO NA GRAVAÇAO
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        VIDEOS SEM SONS NAO SERAO ACEITOS
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        30 FPS É O MINIMO PARA SER ACEITO
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        AFK STRAT EM ALGUNS MODOS NAO SAO ACEITOS
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        O MODO TEM QUE ESTAR NA POSIÇAO 1 ATE 150 
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        
                     </p>
                 </div>
             </div>
